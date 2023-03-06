@@ -1,2 +1,1 @@
-# id-generator
-ID生成器
+# ID GENERATOR
